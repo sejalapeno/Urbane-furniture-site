@@ -1,5 +1,6 @@
 # Urbane-furniture-site
 A single page furniture site with add to cart functionality (using local storage).
+
 ![image](https://github.com/sejalapeno/Urbane-furniture-site/assets/110482301/c68aa5b9-f915-41c0-9ea0-bcf454fb390a)
 ![image](https://github.com/sejalapeno/Urbane-furniture-site/assets/110482301/c6d3f4c3-d9e4-4042-81af-6bed14fd8086)
 ![image](https://github.com/sejalapeno/Urbane-furniture-site/assets/110482301/053f407f-c723-4392-8d8d-9d847efc1ebb)
