@@ -8,7 +8,7 @@ A single page furniture site with add to cart functionality (using local storage
 ![image](https://github.com/sejalapeno/Urbane-furniture-site/assets/110482301/92e7df20-ebd9-430d-8ed2-4c3b86ecb553)
 ![image](https://github.com/sejalapeno/Urbane-furniture-site/assets/110482301/d92d096c-691d-4ebb-bfb9-2d46b5c6f2d1)
 
-##Responsive
+## Responsive
 ![image](https://github.com/sejalapeno/Urbane-furniture-site/assets/110482301/1e412a20-70ad-4b69-8460-846a2bc1a472)
 ![image](https://github.com/sejalapeno/Urbane-furniture-site/assets/110482301/eb281258-4f38-4f3d-922c-118d0d544128)
 ![image](https://github.com/sejalapeno/Urbane-furniture-site/assets/110482301/515b7975-0d33-4a41-99ca-2645fba6c6de)
